@@ -20,8 +20,8 @@ app.database = 'sample.db'
 
 app_data = {
     "name": "Acme Inc. Customer Service App",
-    "description": "Making our Customers happy since 2018!",
-    "author": "Regina Garfias",
+    "description": "Making our Customers happy since 2024!",
+    "authors": "Regina Garfias & Lucia Medina",
     "html_title": "Acme Inc. Customer Service App",
     "project_name": "Customer Service App",
     "keywords": "flask, webapp, tbasic",
